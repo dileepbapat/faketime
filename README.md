@@ -1,7 +1,7 @@
 # FakeTime 
 Faketime is to support testing time based features. It allows you to change time to simulate test scenarios.
 
-This is fake time utility, that Manohar developed. It was using remote python server for time source. 
+This is fake time utility, that [Manohar](https://github.com/akula1001) developed. It was using remote python server for time source. 
 
 This fork uses in memory time offset that will be added to real clock. System class is decorated with setTimeOffset and getTimeOffset methods to faketime.
 
